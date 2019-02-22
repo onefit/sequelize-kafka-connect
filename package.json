@@ -41,7 +41,7 @@
         "tedious": "~3.0.1"
     },
     "devDependencies": {
-        "coveralls": "~3.0.2",
+        "coveralls": "~3.0.3",
         "istanbul": "~0.4.5",
         "log4bro": "~3.7.1",
         "mocha": "~5.2.0",
